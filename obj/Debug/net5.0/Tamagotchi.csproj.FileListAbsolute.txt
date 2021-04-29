@@ -1,0 +1,16 @@
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/Tamagotchi
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/Tamagotchi.deps.json
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/Tamagotchi.runtimeconfig.json
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/Tamagotchi.runtimeconfig.dev.json
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/Tamagotchi.dll
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/ref/Tamagotchi.dll
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/bin/Debug/net5.0/Tamagotchi.pdb
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.csprojAssemblyReference.cache
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.AssemblyInfoInputs.cache
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.AssemblyInfo.cs
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.csproj.CoreCompileInputs.cache
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.dll
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/ref/Tamagotchi.dll
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.pdb
+/home/marlon/Documents/Projects/Programming/C#/Tamagotchi/obj/Debug/net5.0/Tamagotchi.genruntimeconfig.cache
